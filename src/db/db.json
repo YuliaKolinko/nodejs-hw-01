@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "08d842f5-aadd-420a-afcd-7c40336252f3",
+    "name": "Roger Towne",
+    "phone": "811-638-1449 x1921",
+    "email": "Odell82@gmail.com",
+    "job": "Lead Usability Technician"
+  },
+  {
+    "id": "17bd5d46-c6a2-4460-8509-c0c0e4ecb79f",
+    "name": "Mr. Max Franey",
+    "phone": "(877) 883-4561",
+    "email": "Richmond_Kub-Heller@yahoo.com",
+    "job": "Customer Program Facilitator"
+  },
+  {
+    "id": "37b1bbae-af43-4d60-ab8e-a952432a1bec",
+    "name": "Rachel Zieme",
+    "phone": "(242) 447-1749 x27972",
+    "email": "Magali_Streich@hotmail.com",
+    "job": "Dynamic Usability Representative"
+  },
+  {
+    "id": "c1806b16-1d17-46ad-b845-49d8bec1c3a1",
+    "name": "Bill Murazik",
+    "phone": "493-830-7306 x48632",
+    "email": "Samir.Flatley@gmail.com",
+    "job": "Dynamic Marketing Coordinator"
+  }
+]
